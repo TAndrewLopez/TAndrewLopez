@@ -30,7 +30,7 @@ I'm a Full Stack Software Engineer and I'm passionate about what I do. I love pu
 - 🧠 I’m currently learning Tensorflow.js, Pixi.js, and Firebase.  
   
 
-- ❓ Fun fact: I only own manual transmission cars.  
+- ❓ Fun fact: I've only owned manual transmission cars. 🏎️💨
 
 
 </td><td valign="top" width="50%">
