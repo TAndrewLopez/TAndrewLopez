@@ -24,7 +24,7 @@ I'm a Full Stack Software Engineer and I'm passionate about what I do. I love pu
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently rebuilding/redisgning [Gen Records](https://github.com/TAndrewLopez/gen_records_nextjs) / [Live Site]( https://gen-records.vercel.app/)
+- 🔭 I’m currently rebuilding/redisgning Gen Records : [Source Code](https://github.com/TAndrewLopez/gen_records_nextjs) / [Live Site]( https://gen-records.vercel.app/)
   
 
 - 🧠 I’m currently learning Tensorflow.js, Pixi.js, and Firebase.  
