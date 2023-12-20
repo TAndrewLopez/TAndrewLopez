@@ -9,7 +9,7 @@ Fullstack Developer
 As a highly motivated and adaptable software developer, I thrive on tackling new challenges and venturing into uncharted territory. I've honed my skills working for several start-up companies, where I've had to navigate ambiguous situations with little direction. I'm comfortable existing in the gray area and enjoy pioneering the way for others. My passion for learning and expanding my knowledge is what drives me. Whenever something catches my interest, I dive deep into research and explore the finer details of a given topic. I'm inspired by what can be achieved and find it fascinating to understand how things work at the highest level. With technical expertise in React.js, JavaScript, TypeScript, and more, I possess the necessary skills to develop innovative and scalable solutions. Additionally, my soft skills, including leadership, collaboration, and critical thinking, make me an effective team player and problem solver. I'm excited to take on new challenges and contribute my skills to a dynamic and innovative organization.
 
 * 🌍  I'm based in New York City Metropolitan Area
-* 🖥️  See my portfolio at [Website](http://tandrewlopez-dev.netlify.app/)
+* 🖥️  See my portfolio at [Website](https://www.tandrewlopez.com/)
 * 🧠  I'm learning iOS Development with Swift Programming Language
 
 ### Skills
